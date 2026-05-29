@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userferify",
+        "uuid": 1136650,
+        "checksum": "dk6fej"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
